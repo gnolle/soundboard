@@ -1,0 +1,216 @@
+{
+  "uuid": "a8cdd5a3f0d9e9a9561be74ee2c8ab5f",
+  "path": "Offline/Wiring",
+  "name": "Wiring",
+  "content": "",
+  "created_at": "2021-02-14 11:07:55",
+  "updated_at": "2021-02-18 18:23:05",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "282099f2711ffb3dc4342d481341eaf4",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "0ff44e90d2974c6aafea3952e1998c7d": 3
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "MCP",
+          1,
+          "MCP23017V2",
+          "MCP",
+          {
+            "puuid": "594fed0edce24a81b87a099e000cf0f6",
+            "uuid": ""
+          }
+        ],
+        [
+          "LED",
+          1,
+          "LED CONNECTOR",
+          "LED",
+          {
+            "puuid": "6d6ac4172eeb451d859e608627226e4c",
+            "uuid": ""
+          }
+        ],
+        [
+          "Power Adapter",
+          1,
+          "POWER ADAPTER",
+          "POWERADAPTER",
+          {
+            "puuid": "ad25d52f668b4e01a47e65af27fb61b2",
+            "uuid": ""
+          }
+        ],
+        [
+          "CONDENSATOR",
+          5,
+          "CONDENSATOR",
+          "CONDENSATOR3,CONDENSATOR2,CONDENSATOR,CONDENSATOR1,CONDENSATOR4",
+          {
+            "puuid": "20bdb5f4ff304318b62d4ac7172dd5e3",
+            "uuid": ""
+          }
+        ],
+        [
+          "Arduino Nano",
+          1,
+          "ARDUINO NANO V2",
+          "NANO",
+          {
+            "puuid": "f037dc2cd32e4212a15c9e671dadcfea",
+            "uuid": ""
+          }
+        ],
+        [
+          "Matrix",
+          1,
+          "MATRIX CONNECTOR",
+          "MATRIX",
+          {
+            "puuid": "c9dd8e0d1ef4482eb7daef2e905b6ac6",
+            "uuid": ""
+          }
+        ],
+        [
+          "Max",
+          1,
+          "MAX98306",
+          "MAX",
+          {
+            "puuid": "84c85fc891f14ee4920a7322d11d6a88",
+            "uuid": ""
+          }
+        ],
+        [
+          "VS1053B",
+          1,
+          "VS1053B",
+          "VS1053B",
+          {
+            "puuid": "bda2edeb363d43bdbae59ada20693bbe",
+            "uuid": ""
+          }
+        ],
+        [
+          "Volume",
+          1,
+          "VOLUME CONNECTOR",
+          "VOLUME",
+          {
+            "puuid": "5005a6621c8b422c8060852b95db1b4f",
+            "uuid": ""
+          }
+        ],
+        [
+          "4.7K",
+          3,
+          "RESISTOR",
+          "R1,R3,R2",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C167584",
+            "BOM_Manufacturer": "TA-I Tech",
+            "BOM_Manufacturer Part": "RD50T5472J",
+            "puuid": "5f5147dd645d47fe9a3f918b09985eaf",
+            "uuid": "0ff44e90d2974c6aafea3952e1998c7d"
+          }
+        ]
+      ],
+      "updateTime": 1613651732,
+      "createTime": 1613297275,
+      "histories": [],
+      "created_at": "2021-02-14 11:07:55",
+      "updated_at": "2021-02-18 13:35:32"
+    },
+    {
+      "uuid": "0170b273b35dbad6eded53d4b8668cbe",
+      "puuid": "a8cdd5a3f0d9e9a9561be74ee2c8ab5f",
+      "title": "PCB_2021-02-14_11-52-10",
+      "filename": "PCB_2021-02-14_11-52-10.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "2233b0d12a5b49bba58b9a3598a7b71b": 1,
+        "c849031a3e05472fa9a21c6ce36d87b1": 1
+      },
+      "BOM": [],
+      "updateTime": 1613299930,
+      "createTime": 1613299930,
+      "histories": [],
+      "created_at": "2021-02-14 11:52:10",
+      "updated_at": "2021-02-14 11:52:10"
+    },
+    {
+      "uuid": "1d11a244fa5d3e6357c7c47f5874f2f8",
+      "puuid": "a8cdd5a3f0d9e9a9561be74ee2c8ab5f",
+      "title": "PCB_2021-02-14_15-05-49",
+      "filename": "PCB_2021-02-14_15-05-49.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "2233b0d12a5b49bba58b9a3598a7b71b": 1,
+        "c849031a3e05472fa9a21c6ce36d87b1": 1,
+        "126d7925d4664edca85539b6f7191045": 1,
+        "f5d092ea00d64e59a81d4beab3dad7de": 1,
+        "1bf59dff03ec4233aa077dc7cf0e92a1": 2
+      },
+      "BOM": [],
+      "updateTime": 1613311549,
+      "createTime": 1613311549,
+      "histories": [],
+      "created_at": "2021-02-14 15:05:49",
+      "updated_at": "2021-02-14 15:05:49"
+    },
+    {
+      "uuid": "efff6cb5a5f222106a79f4d7bcd7d48d",
+      "puuid": "a8cdd5a3f0d9e9a9561be74ee2c8ab5f",
+      "title": "PCB_2021-02-16_22-11-18",
+      "filename": "PCB_2021-02-16_22-11-18.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "20bdb5f4ff304318b62d4ac7172dd5e3": 5,
+        "ad25d52f668b4e01a47e65af27fb61b2": 1,
+        "5f5147dd645d47fe9a3f918b09985eaf": 3,
+        "f037dc2cd32e4212a15c9e671dadcfea": 1,
+        "c9dd8e0d1ef4482eb7daef2e905b6ac6": 1,
+        "594fed0edce24a81b87a099e000cf0f6": 1,
+        "5005a6621c8b422c8060852b95db1b4f": 1,
+        "bda2edeb363d43bdbae59ada20693bbe": 1,
+        "6d6ac4172eeb451d859e608627226e4c": 1,
+        "84c85fc891f14ee4920a7322d11d6a88": 1
+      },
+      "BOM": [],
+      "updateTime": 1613668985,
+      "createTime": 1613509878,
+      "histories": [],
+      "created_at": "2021-02-16 22:11:18",
+      "updated_at": "2021-02-18 18:23:05"
+    }
+  ],
+  "sort": [],
+  "title": "Wiring",
+  "foldername": "Wiring",
+  "schfilename": "Wiring.json",
+  "schfilemtime": 1613651732964
+}
